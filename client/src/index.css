@@ -5,8 +5,10 @@
 body {
   margin: 0;
   font-family: Inter, "Segoe UI", Roboto, sans-serif;
-  background: linear-gradient(180deg, #f8fbff 0%, #eef4ff 100%);
+  background: linear-gradient(180deg, #f3f9ff 0%, #e8f1ff 100%);
   color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 #root {
